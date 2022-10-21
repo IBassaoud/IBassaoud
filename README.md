@@ -8,19 +8,19 @@
 
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-## <img src="https://images.squarespace-cdn.com/content/v1/52797d42e4b01f648b9e8392/1455601047413-LHBT06990IG7TFWFN330/Blueconic_Profile_WhiteBG-trzown.gif" width="40" style="margin-bottom:-10px;">  <b>About Me</b>
+## <img src="https://images.squarespace-cdn.com/content/v1/52797d42e4b01f648b9e8392/1455601047413-LHBT06990IG7TFWFN330/Blueconic_Profile_WhiteBG-trzown.gif" width="40">  <b>About Me</b>
 
-- <img width="30" style="margin-bottom:-10px;" src="https://cdn-icons-png.flaticon.com/512/2231/2231642.png"> At the moment I'm focused on getting my **Web and Mobile Web Developer** certification at BeWeb école Régionale du Numérique
+- <img width="30" src="https://cdn-icons-png.flaticon.com/512/2231/2231642.png"> At the moment I'm focused on getting my **Web and Mobile Web Developer** certification at BeWeb école Régionale du Numérique
 
-- <img width="26" style="margin-bottom:-5px;" src="https://cdn-icons-png.flaticon.com/512/2335/2335353.png">️ Montpellier, France
+- <img width="26" src="https://cdn-icons-png.flaticon.com/512/2335/2335353.png">️ Montpellier, France
 
-- <img width="38" style="margin-bottom:-11px;" src="https://cdn-icons-png.flaticon.com/512/5024/5024509.png"> I am currently working on application that will allow Beweb to centralize job and internship offers coming from partner companies and from the Pole Emploi API that will be made available to apprentices formed at BeWeb.
+- <img width="38" src="https://cdn-icons-png.flaticon.com/512/5024/5024509.png"> I am currently working on application that will allow Beweb to centralize job and internship offers coming from partner companies and from the Pole Emploi API that will be made available to apprentices formed at BeWeb.
 
-- <img width="26" style="margin-bottom:-5px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/1200px-Open_Source_Initiative_keyhole.svg.png"> I'm interested in collaborating on open source projects.
+- <img width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/1200px-Open_Source_Initiative_keyhole.svg.png"> I'm interested in collaborating on open source projects.
 
-- <img width="30" style="margin-bottom:-12px;" src="https://cdn-icons-png.flaticon.com/512/8744/8744051.png"> Ask me about anything, I would be happy to help with the best of my capabilities!😉
+- <img width="30" src="https://cdn-icons-png.flaticon.com/512/8744/8744051.png"> Ask me about anything, I would be happy to help with the best of my capabilities!😉
 
-- <img width="30" style="margin-bottom:-10px;" src="https://cdn-icons-png.flaticon.com/512/792/792148.png"> Favorite Quote: "<b>If you want to go fast, go alone. If you want to go far, go together</b>".
+- <img width="30" src="https://cdn-icons-png.flaticon.com/512/792/792148.png"> Favorite Quote: "<b>If you want to go fast, go alone. If you want to go far, go together</b>".
 
 <br>
 
@@ -111,12 +111,13 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=IBassaoud&theme=tokyonight&show_icons=true/460/300"></p>
-
-<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=IBassaoud&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-
-<p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=IBassaoud&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
-
+<table>
+  <tr>
+    <td valign="top"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=IBassaoud&theme=tokyonight&show_icons=true/460/300"/></td>
+    <td valign="top"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=IBassaoud&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"/></td>
+    <td valign="top"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=IBassaoud&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69/460/300"></td>
+  </tr>
+</table>
 <br>
 
 ## <img src="https://cdn.dribbble.com/users/767646/screenshots/1943995/team.gif" width='40'> <b>Connect with Me</b>
