@@ -10,11 +10,11 @@
 
 ## <img src="https://images.squarespace-cdn.com/content/v1/52797d42e4b01f648b9e8392/1455601047413-LHBT06990IG7TFWFN330/Blueconic_Profile_WhiteBG-trzown.gif" width="40">  <b>About Me</b>
 
-- <img width="30" src="https://cdn-icons-png.flaticon.com/512/2231/2231642.png"> At the moment I'm focused on getting my **Web and Mobile Web Developer** certification at BeWeb école Régionale du Numérique
+- <img width="30" src="https://cdn-icons-png.flaticon.com/512/2231/2231642.png"> At the moment I'm working on getting my **Web and Mobile Web Developer** certification at BeWeb école Régionale du Numérique
 
 - <img width="26" src="https://cdn-icons-png.flaticon.com/512/2335/2335353.png">️ Montpellier, France
 
-- <img width="38" src="https://cdn-icons-png.flaticon.com/512/5024/5024509.png"> I am currently working on application that will allow Beweb to centralize job and internship offers coming from partner companies and from the Pole Emploi API that will be made available to apprentices formed at BeWeb.
+- <img width="38" src="https://cdn-icons-png.flaticon.com/512/5024/5024509.png"> I am currently participating in designing and developing an application that will allow Beweb to centralize job and internship offers from partner companies and from the Pole Emploi API that will be made available to apprentices formed at BeWeb.
 
 - <img width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/1200px-Open_Source_Initiative_keyhole.svg.png"> I'm interested in collaborating on open source projects.
 
