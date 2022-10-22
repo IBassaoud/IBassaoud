@@ -130,7 +130,7 @@
 <a href="https://www.linkedin.com/in/ismail-bassaoud/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="IBassaoud" height="40" width="45" /></a>
 &nbsp;
 &nbsp;<a href="mailto:ismail.bassaoud@gmail.com" target="blank"><img align="center" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1626355319613x484158047569452200%2FGmail_Small_Business.gif?w=&h=&auto=compress&dpr=1&fit=max" alt="ismail.bassaoud@gmail.com" width="40" /></a>      
-&nbsp;
+&nbsp;<a href="mailto:ismail.bassaoud@gmail.com" target="blank"><img align="center" src="/scan-profile" width="80" /></a>
 
 
   
