@@ -122,7 +122,7 @@
 
 ## <img src="https://cdn.dribbble.com/users/767646/screenshots/1943995/team.gif" width='40'> <b>Connect with Me</b>
 
- <em>I find it <b>life enriching to connect with different people</b>, so If you think it will be interesting to collaborate, <b>let's connect !</b>😃</em>
+ <em>I find it <b>life enriching to connect with people</b>, so If you think it will be interesting to collaborate, <b>let's connect !</b>😃</em>
  
 <br>
 
