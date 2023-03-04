@@ -10,15 +10,13 @@
 
 ## <img src="https://images.squarespace-cdn.com/content/v1/52797d42e4b01f648b9e8392/1455601047413-LHBT06990IG7TFWFN330/Blueconic_Profile_WhiteBG-trzown.gif" width="40">  <b>About Me</b>
 
-- <img width="30" src="https://cdn-icons-png.flaticon.com/512/2231/2231642.png"> At the moment I'm working on getting my **Web and Mobile Web Developer** certification at BeWeb école Régionale du Numérique
+- <img width="30" src="https://cdn-icons-png.flaticon.com/512/2231/2231642.png"> I have recently graduated from BeWeb école Régionale du Numérique with a certification in Web and Mobile Web Development. I am currently seeking job opportunities in Montpellier, France and would also be open to fully remote positions across Europe.
 
 - <img width="26" src="https://cdn-icons-png.flaticon.com/512/2335/2335353.png">️ Montpellier, France
 
-- <img width="38" src="https://cdn-icons-png.flaticon.com/512/5024/5024509.png"> I am currently working as an intern at InQompass
+- <img width="38" src="https://cdn-icons-png.flaticon.com/512/5024/5024509.png"> I am currently seeking job opportunities in front-end or back-end development.
 
 - <img width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/1200px-Open_Source_Initiative_keyhole.svg.png"> I'm interested in collaborating on open source projects.
-
-- <img width="30" src="https://cdn-icons-png.flaticon.com/512/8744/8744051.png"> Ask me about anything, I would be happy to help with the best of my capabilities!😉
 
 - <img width="30" src="https://cdn-icons-png.flaticon.com/512/792/792148.png"> Favorite Quote: "<b>If you want to go fast, go alone. If you want to go far, go together</b>".
 
@@ -47,7 +45,6 @@
     ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
     ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
   	![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-    ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
     ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
     ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -61,24 +58,22 @@
 
     ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
     ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-    ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
     ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
     
-- 💾 Databases :
+- 💾 Databases & GUI:
 
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
     ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
     ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     
 - 🎛️ Operating System :
 
-    ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
     ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
     
 - 💻 IDEs/Editors :
