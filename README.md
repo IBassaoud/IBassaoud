@@ -14,7 +14,8 @@
 
 - <img width="26" src="https://cdn-icons-png.flaticon.com/512/2335/2335353.png">️ Montpellier, France
 
-- <img width="38" src="https://cdn-icons-png.flaticon.com/512/5024/5024509.png"> I am currently seeking job opportunities as a web developer (Front & Back)
+- <img width="38" src="https://cdn-icons-png.flaticon.com/512/5024/5024509.png"> I am currently seeking job opportunities as a web developer 
+(Front & Back)
 
 - <img width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/1200px-Open_Source_Initiative_keyhole.svg.png"> I'm interested in collaborating on open source projects.
 
