@@ -10,14 +10,14 @@
 
 ## <img src="https://images.squarespace-cdn.com/content/v1/52797d42e4b01f648b9e8392/1455601047413-LHBT06990IG7TFWFN330/Blueconic_Profile_WhiteBG-trzown.gif" width="40">  <b>About Me</b>
 
-- <img width="30" src="https://cdn-icons-png.flaticon.com/512/2231/2231642.png"> I have recently graduated from BeWeb école Régionale du Numérique with a certification in Web and Mobile Web Development. I am currently seeking job opportunities in Montpellier, France and would also be open to fully remote positions across Europe.
+- <img width="25" src="https://cdn-icons-png.flaticon.com/512/2231/2231642.png"> I have recently graduated from BeWeb école Régionale du Numérique with a certification in Web and Mobile Web Development. I am currently seeking job opportunities in Montpellier, France and would also be open to fully remote positions across Europe.
 
-- <img width="26" src="https://cdn-icons-png.flaticon.com/512/2335/2335353.png">️ Montpellier, France
+- <img width="25" src="https://cdn-icons-png.flaticon.com/512/2335/2335353.png">️ Montpellier, France
 
-- <img width="38" src="https://cdn-icons-png.flaticon.com/512/5024/5024509.png"> I am currently seeking job opportunities as a web developer 
+- <img width="25" src="https://cdn-icons-png.flaticon.com/512/5024/5024509.png"> I am currently seeking job opportunities as a web developer 
 (Front & Back)
 
-- <img width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/1200px-Open_Source_Initiative_keyhole.svg.png"> I'm interested in collaborating on open source projects.
+- <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/1200px-Open_Source_Initiative_keyhole.svg.png"> I'm interested in collaborating on open source projects.
 
 - <img width="30" src="https://cdn-icons-png.flaticon.com/512/792/792148.png"> Favorite Quote: "<b>If you want to go fast, go alone. If you want to go far, go together</b>".
 
