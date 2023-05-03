@@ -10,14 +10,12 @@
 
 ## <img src="https://images.squarespace-cdn.com/content/v1/52797d42e4b01f648b9e8392/1455601047413-LHBT06990IG7TFWFN330/Blueconic_Profile_WhiteBG-trzown.gif" width="40">  <b>About Me</b>
 
-- <img width="25" src="https://cdn-icons-png.flaticon.com/512/2231/2231642.png"> I have recently graduated from BeWeb école Régionale du Numérique with a certification in Web and Mobile Web Development. I am currently seeking job opportunities in Montpellier, France and would also be open to fully remote positions across Europe.
+- <img width="25" src="https://cdn-icons-png.flaticon.com/512/2231/2231642.png"> I'm a fullstack junior developer with a year of experience. I'm passionate about creating quality applications that meet user needs and add value to clients. I have a strong work ethic and am dedicated to delivering high-quality work. I'm currently seeking new opportunities to further develop my skills and contribute to innovative projects.
 
 - <img width="25" src="https://cdn-icons-png.flaticon.com/512/2335/2335353.png">️ Montpellier, France
 
 - <img width="25" src="https://cdn-icons-png.flaticon.com/512/5024/5024509.png"> I am currently seeking job opportunities as a web developer 
-(Front & Back)
-
-- <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Open_Source_Initiative_keyhole.svg/1200px-Open_Source_Initiative_keyhole.svg.png"> I'm interested in collaborating on open source projects.
+(Fullstack, Front or Back)
 
 - <img width="30" src="https://cdn-icons-png.flaticon.com/512/792/792148.png"> Favorite Quote: "<b>If you want to go fast, go alone. If you want to go far, go together</b>".
 
@@ -81,7 +79,6 @@
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-    ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 - ☁️ Hosting/SaaS
 
@@ -93,7 +90,6 @@
     ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
     ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
     ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-    ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
     ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
     ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
