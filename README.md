@@ -14,8 +14,8 @@
 
 - <img width="25" src="https://cdn-icons-png.flaticon.com/512/2335/2335353.png">️ Montpellier, France
 
-- <img width="25" src="https://cdn-icons-png.flaticon.com/512/5024/5024509.png"> I am currently seeking job opportunities as a web developer 
-(Fullstack, Front or Back)
+<!-- - <img width="25" src="https://cdn-icons-png.flaticon.com/512/5024/5024509.png"> I am currently seeking job opportunities as a web developer 
+(Fullstack, Front or Back)-->
 
 - <img width="30" src="https://cdn-icons-png.flaticon.com/512/792/792148.png"> Favorite Quote: "<b>If you want to go fast, go alone. If you want to go far, go together</b>".
 
