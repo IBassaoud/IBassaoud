@@ -105,9 +105,9 @@
 
 <table>
   <tr>
-    <td valign="top"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=IBassaoud&theme=tokyonight&show_icons=true/460/300"/></td>
-    <td valign="top"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=IBassaoud&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"/></td>
-    <td valign="top"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=IBassaoud&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69/460/300"></td>
+    <td valign="top"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=IBassaoud&show_icons=true&theme=transparent"/></td>
+    <td valign="top"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=IBassaoud&show_icons=true&locale=en&layout=compact&theme=transparent"/></td>
+    <td valign="top"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=IBassaoud&theme=transparent&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"></td>
   </tr>
 </table>
 <br>
