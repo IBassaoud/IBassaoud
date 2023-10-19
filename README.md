@@ -16,6 +16,7 @@
 
 <!-- - <img width="25" src="https://cdn-icons-png.flaticon.com/512/5024/5024509.png"> I am currently seeking job opportunities as a web developer 
 (Fullstack, Front or Back)-->
+<!-- https://netia.eurecia.com/eurecia/index.html#/old?url=timesheet%2FOpen.do%3Fmode%3Dedit%26id%3DNETIA--------20191112-140021%5B.%5D4868b5d5-8b69-4f51-89c5-8c3f401143a9%5B.%5Da79e38d1-b1df-47f8-98bc-6791148e3a93-->
 
 - <img width="30" src="https://cdn-icons-png.flaticon.com/512/792/792148.png"> Favorite Quote: "<b>If you want to go fast, go alone. If you want to go far, go together</b>".
 
