@@ -10,7 +10,8 @@
 
 ## <img src="https://images.squarespace-cdn.com/content/v1/52797d42e4b01f648b9e8392/1455601047413-LHBT06990IG7TFWFN330/Blueconic_Profile_WhiteBG-trzown.gif" width="40">  <b>About Me</b>
 
-- <img width="25" src="https://cdn-icons-png.flaticon.com/512/2231/2231642.png"> As a full-stack developer, my true passion lies in developing high-quality applications that not only meet user needs but also bring significant value to clients. I always work hard to ensure my work is excellent and of the best quality. I'm looking for new opportunities to improve my skills and participate in exciting projects that make a difference.
+- <img width="25" src="https://cdn-icons-png.flaticon.com/512/2231/2231642.png"> Full-stack developer at Atos, my true passion lies in developing high-quality applications that not only meet user needs but also bring significant value to clients. I always work hard to ensure my work is excellent and of the best quality.
+<!-- I'm looking for new opportunities to improve my skills and participate in exciting projects that make a difference-->
 
 - <img width="25" src="https://cdn-icons-png.flaticon.com/512/2335/2335353.png">️ Montpellier, France
 
@@ -95,7 +96,7 @@
     ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
     ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
     ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-    ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
+    <!-- ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) -->
 
 
 </p>
