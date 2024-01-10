@@ -10,7 +10,7 @@
 
 ## <img src="https://images.squarespace-cdn.com/content/v1/52797d42e4b01f648b9e8392/1455601047413-LHBT06990IG7TFWFN330/Blueconic_Profile_WhiteBG-trzown.gif" width="40">  <b>About Me</b>
 
-- <img width="25" src="https://cdn-icons-png.flaticon.com/512/2231/2231642.png"> Full-stack developer at Atos, my true passion lies in developing high-quality applications that not only meet user needs but also bring significant value to clients. I always work hard to ensure my work is excellent and of the best quality.
+- <img width="25" src="https://cdn-icons-png.flaticon.com/512/2231/2231642.png"> Full-stack Big Data engineer at Atos, my true passion lies in developing high-quality applications that not only meet user needs but also bring significant value to clients. I always work hard to ensure my work is excellent and of the best quality.
 <!-- I'm looking for new opportunities to improve my skills and participate in exciting projects that make a difference-->
 
 - <img width="25" src="https://cdn-icons-png.flaticon.com/512/2335/2335353.png">️ Montpellier, France
